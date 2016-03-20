@@ -1,4 +1,2 @@
-messages.db
 node_modules
 *.log
-app/public/app.js
